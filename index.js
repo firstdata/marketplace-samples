@@ -30,13 +30,13 @@ request(options, function (error, response, body) {
 });
 
 // Sample POST
-var options = { method: 'POST',
+var options2 = { method: 'POST',
   url: url + 'marketplace/v1/identity/questions',
   headers: getAuthenticationHeaders(),
   body: { orderId: 242 },
   json: true };
 
-request(options, function (error, response, body) {
+request(options2, function (error, response, body) {
   if (error) throw new Error(error);
 
   console.log(body);
