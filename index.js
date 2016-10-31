@@ -3,9 +3,9 @@ var request = require('request');
 var crypto = require('crypto');
 var http = require("https");
 
-var username = 'xxxx-xxxx-xxx-xxx-xxxx';
-var secret = 'xxx-xxx-xxx-xxx-xxxxxxxx';
-var url = 'https://api.developer.firstdata.com/';
+var username = 'xxxx-xxxx-xxx-xxx-xxxx'; // replace with userna,e from email
+var secret = 'xxx-xxx-xxx-xxx-xxxxxxxx'; // replace with secret from your email
+var url = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // replace with url from your email
 
 var getAuthenticationHeaders = function () {
   var date = new Date().toUTCString();
