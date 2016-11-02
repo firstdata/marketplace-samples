@@ -1,0 +1,36 @@
+{
+
+  "transactionInfo": {
+    "mccTypes": "Clothing and Shoes",
+    "mcc": "5611",
+    "annualVolume": 999999,
+    "averageTicket": 233,
+    "highestTicket": 345,
+    "category": "RETAIL"
+  },
+  "products": [{
+    "id": 10013,
+    "name": "Visa/MasterCard",
+    "price": 0,
+    "type": "Acquiring",
+    "qty": 1
+  }, {
+    "id": 10017,
+    "name": "Discover",
+    "price": 0,
+    "type": "Acquiring",
+    "qty": 1
+  }, {
+    "id": 10021,
+    "name": "American Express",
+    "price": 0,
+    "type": "Acquiring",
+    "qty": 1
+  }, {
+    "id": 10023,
+    "name": "PayPal",
+    "price": 0,
+    "type": "Acquiring",
+    "qty": 1
+  }]
+}

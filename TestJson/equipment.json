@@ -1,0 +1,19 @@
+{
+  "companyId": 386,
+  "transactionInfo": {
+    "mccTypes": "Clothing and Shoes",
+    "mcc": "5611",
+    "annualVolume": 999999,
+    "averageTicket": 233,
+    "highestTicket": 345,
+    "category": "RETAIL"
+  },
+  "products": [{
+    "id": 67702,
+    "name": "Clover Station W/ Cash Drawer",
+    "price": 1299,
+    "type": "Clover Station W/ Cash Drawer",
+    "term": "P",
+    "qty": 1
+  }]
+}

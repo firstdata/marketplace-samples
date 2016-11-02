@@ -1,0 +1,24 @@
+{
+  "merchant": "",
+  "cartdetails": [{
+    "productid": 67702
+  }, {
+    "productid": 10013
+  }, {
+    "productid": 10017
+  }, {
+    "productid": 10021
+  }, {
+    "productid": 10023
+  }],
+  "transactionInfo": {
+    "mccTypes": "",
+    "mcc": null,
+    "annualVolume": null,
+    "averageTicket": null,
+    "amexVolume": null,
+    "amexMemberId": null,
+    "highestTicket": null,
+    "category": null
+  }
+}
