@@ -51,6 +51,9 @@
     "title": "VICE PRESIDENT",
     "homeContactId": "111"
   }],
+ "additionalMerchantDetails": [
+    { "statementDelivery": "ONLINE" }
+  ],
   "siteSurvey": {
     "siteVisitation": "NOT REQUIRED",
     "surveyPerformed": "F6MICSO",
